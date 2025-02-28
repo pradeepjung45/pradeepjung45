@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/800x200?text=Pradeep+Karki+-+Software+Developer" alt="Profile Banner" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Pradeep Karki</h1>
 <h3 align="center">A passionate software developer from Nepal specializing in AI, machine learning, and backend development.</h3>
