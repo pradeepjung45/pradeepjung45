@@ -32,13 +32,6 @@
 <a href="https://dev.to/pradeep_jungkarki_0e96b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pradeep_jungkarki_0e96b7" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/pradeep karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep karki" height="30" width="40" /></a>
-
-<a href="https://fb.com/pradeep karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep karki" height="30" width="40" /></a>
-
-<a href="https://instagram.com/pradeep_jung_karkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep_jung_karkee" height="30" width="40" /></a>
-
-<a href="https://medium.com/karkeepradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="karkeepradeep" height="30" width="40" /></a>
-
 </p>
 
 
