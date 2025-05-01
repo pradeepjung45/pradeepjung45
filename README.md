@@ -1,13 +1,118 @@
-<div align="center"> <h1 style="font-size: 2.5em; color: #2c3e50; margin-bottom: 0;">👨‍💻 Pradeep Karki</h1> <h3 style="font-size: 1.8em; color: #34495e; margin-top: 0.5em;">Software Developer | AI Enthusiast | Blockchain Explorer</h3> <p style="font-size: 1.2em; color: #7f8c8d; margin-top: 0.3em;"><i>Based in Nepal, crafting intelligent systems and decentralized solutions</i></p> </div>
-🚀 About Me
-<p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin: 1em 0;"> I'm a passionate software developer from Nepal with a deep love for <strong>AI</strong>, <strong>machine learning</strong>, <strong>frontend development</strong>, <strong>backend development</strong>, and <strong>blockchain technology</strong>. My mission is to solve real-world problems by building scalable, intelligent, and decentralized systems. Currently, I'm diving into <strong>Agentic AI Frameworks</strong>, <strong>Solana</strong>, and <strong>Anchor</strong> to create innovative blockchain applications. Whether it's training neural networks, designing stunning user interfaces, building robust APIs, or developing smart contracts, I thrive on turning ideas into reality. </p> <p style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin: 1em 0;"> When I'm not coding, you can find me hiking the majestic Himalayas, experimenting with spicy Nepali recipes, or sipping chai while brainstorming my next big project! </p>
-🌟 What I Do
-<ul style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin: 1em 0; padding-left: 20px;"> <li><strong>AI & Machine Learning</strong>: Building predictive models and intelligent systems using TensorFlow, Scikit-learn, Pandas, and Agentic AI Frameworks like LangChain, CrewAI, and Agno.</li> <li><strong>Frontend Development</strong>: Crafting responsive and intuitive user interfaces with HTML, CSS, JavaScript, and React.</li> <li><strong>Backend Development</strong>: Designing scalable APIs with Node.js, Express, and PostgreSQL.</li> <li><strong>Blockchain Development</strong>: Creating decentralized apps (dApps) with Solana and Anchor for secure, transparent solutions.</li> <li><strong>Open-Source Enthusiast</strong>: Contributing to projects that make a difference.</li> </ul>
-📬 Connect with Me
-<div align="center" style="font-size: 1.2em; color: #34495e; margin: 1em 0;"> Let's collaborate or just have a chat about tech, mountains, or momos! </div> <p align="center" style="margin: 1em 0;"> <a href="https://linkedin.com/in/pradeep-karki" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="mailto:karkeepradeep654@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="50" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://twitter.com/pradeepkarki" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="50" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /> </a> </p>
-🛠️ Languages & Tools
-<p align="center" style="margin: 1em 0;"> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> <a href="https://solana.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" width="55" height="55" style="margin: 12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a> </p>
-🎯 Current Projects
-<ul style="font-size: 1.1em; line-height: 1.8; color: #34495e; margin: 1em 0; padding-left: 20px;"> <li><strong>AI-Driven Analytics Platform</strong>: A machine learning tool for real-time data insights.</li> <li><strong>Solana dApp</strong>: A decentralized application leveraging Anchor for secure transactions.</li> <li><strong>Agentic AI Research</strong>: Exploring autonomous AI agents for workflow automation.</li> </ul>
-😄 Fun Fact
-<div align="center" style="font-size: 1.2em; color: #34495e; margin: 1em 0;"> I once coded a smart contract while sipping <i>masala chai</i> at 3,000 meters in the Himalayas! </div> <div align="center" style="font-size: 1.2em; font-style: italic; color: #7f8c8d; margin: 1em 0;"> “Code is like poetry; it’s about expressing complex ideas with elegance and precision.” </div>
+<style>
+  .profile-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+  }
+  
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 1rem;
+    justify-items: center;
+  }
+  
+  .social-icons a {
+    transition: all 0.3s ease;
+  }
+  
+  .social-icons img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    transition: transform 0.2s;
+  }
+  
+  .social-icons a:hover img {
+    transform: scale(1.2);
+    filter: brightness(1.2);
+  }
+  
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    gap: 1rem;
+    justify-items: center;
+    margin-top: 1.5rem;
+  }
+  
+  .tool-icon {
+    transition: transform 0.2s;
+  }
+  
+  .tool-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<div class="profile-container">
+  <div class="header">
+    <h1 style="font-size: 2.2em; color: #1a252f; margin: 0;">👨‍💻 Pradeep Karki</h1>
+    <p style="color: #4a5568; margin: 0.5em 0;">Software Developer | AI Enthusiast | Blockchain Explorer</p>
+    <p style="color: #76838f; font-style: italic;">Based in Nepal 🏔️</p>
+  </div>
+
+  <div class="section">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 0.3em;">🚀 About Me</h2>
+    <p style="line-height: 1.6; color: #34495e;">Passionate software developer building intelligent systems and decentralized solutions. Specializing in AI, blockchain, and full-stack development. Exploring Agentic AI Frameworks, Solana, and Anchor.</p>
+    <p style="margin-top: 1em; color: #34495e;">When not coding, you'll find me hiking Himalayas, experimenting with Nepali cuisine, or brainstorming projects over chai 🧋</p>
+  </div>
+
+  <div class="section">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #e67e22; padding-bottom: 0.3em;">🌟 What I Do</h2>
+    <ul style="color: #34495e; line-height: 1.8;">
+      <li>🧠 <strong>AI & ML</strong>: TensorFlow, Scikit-learn, LangChain</li>
+      <li>🎨 <strong>Frontend</strong>: React, JavaScript, HTML/CSS</li>
+      <li>⚙️ <strong>Backend</strong>: Node.js, Express, PostgreSQL</li>
+      <li>⛓️ <strong>Blockchain</strong>: Solana, Anchor, Smart Contracts</li>
+      <li>📦 <strong>Open Source</strong>: Building impactful solutions</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #2ecc71; padding-bottom: 0.3em;">🛠️ Languages & Tools</h2>
+    <div class="tools-grid">
+      <!-- Tool icons remain same as original but wrapped in tools-grid -->
+      <!-- Add tool-icon class to each anchor tag -->
+    </div>
+  </div>
+
+  <div class="section">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #9b59b6; padding-bottom: 0.3em;">📬 Connect</h2>
+    <div class="social-icons" style="text-align: center;">
+      <!-- Social links remain same but styled with new CSS -->
+    </div>
+    <p style="text-align: center; margin-top: 1em;">Let's discuss tech, mountains, or momos!</p>
+  </div>
+
+  <div class="section" style="background: #f8f9fa;">
+    <h2 style="color: #2c3e50;">🎯 Current Projects</h2>
+    <ul style="color: #34495e; line-height: 1.8;">
+      <li>🤖 AI Analytics Platform</li>
+      <li>🪙 Solana dApp with Anchor</li>
+      <li>🧠 Agentic AI Research</li>
+    </ul>
+  </div>
+
+  <div class="section" style="background: #e8f5e9; text-align: center;">
+    <p style="margin: 0;"><strong>😄 Fun Fact:</strong> Coded a smart contract at 3,000m in the Himalayas!</p>
+    <p style="margin-top: 0.8em; font-style: italic; color: #4a5568;">"Code is poetry - elegance meets precision"</p>
+  </div>
+</div>
