@@ -15,9 +15,9 @@
   <div class="section">
     <h2 style="color: #2c3e50; border-bottom: 2px solid #e67e22; padding-bottom: 0.3em;">🌟 What I Do</h2>
     <ul style="color: #34495e; line-height: 1.8;">
-      <li>🧠 <strong>AI & ML</strong>: TensorFlow, Scikit-learn, LangChain</li>
+      <li>🧠 <strong>AI & ML</strong>: TensorFlow, Scikit-learn, Agentic Frameworks</li>
       <li>🎨 <strong>Frontend</strong>: React, JavaScript, HTML/CSS</li>
-      <li>⚙️ <strong>Backend</strong>: Node.js, Express, PostgreSQL</li>
+      <li>⚙️ <strong>Backend</strong>: Node.js, Express, NestJs, PostgreSQL, MongoDB, RestAPI</li>
       <li>⛓️ <strong>Blockchain</strong>: Solana, Anchor, Smart Contracts</li>
       <li>📦 <strong>Open Source</strong>: Building impactful solutions</li>
     </ul>
