@@ -1,5 +1,3 @@
-
-
 <div class="profile-container">
   <div class="header">
     <h1 style="font-size: 2.2em; color: #1a252f; margin: 0;">👨‍💻 Pradeep Karki</h1>
@@ -24,18 +22,74 @@
     </ul>
   </div>
 
+  <!-- ✅ Added Languages & Tools Section -->
   <div class="section">
     <h2 style="color: #2c3e50; border-bottom: 2px solid #2ecc71; padding-bottom: 0.3em;">🛠️ Languages & Tools</h2>
-    <div class="tools-grid">
-      <!-- Tool icons remain same as original but wrapped in tools-grid -->
-      <!-- Add tool-icon class to each anchor tag -->
+    <div class="tools-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); gap: 1rem; justify-items: center; margin-top: 1rem;">
+      <!-- Tool Icons -->
+      <a href="https://www.cprogramming.com/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://expressjs.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.linux.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://nodejs.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://pandas.pydata.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://postman.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.python.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://reactjs.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.rust-lang.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://scikit-learn.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://www.tensorflow.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 10px;" />
+      </a>
+      <a href="https://solana.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" width="50" height="50" style="margin: 10px;" />
+      </a>
     </div>
   </div>
 
   <div class="section">
     <h2 style="color: #2c3e50; border-bottom: 2px solid #9b59b6; padding-bottom: 0.3em;">📬 Connect</h2>
     <div class="social-icons" style="text-align: center;">
-      <!-- Social links remain same but styled with new CSS -->
+      <a href="https://linkedin.com/in/pradeep-karki" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 10px;" />
+      </a>
+      <a href="mailto:karkeepradeep654@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="50" style="margin: 0 10px;" />
+      </a>
+      <a href="https://twitter.com/pradeepkarki" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="50" style="margin: 0 10px;" />
+      </a>
     </div>
     <p style="text-align: center; margin-top: 1em;">Let's discuss tech, mountains, or momos!</p>
   </div>
