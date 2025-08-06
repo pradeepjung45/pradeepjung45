@@ -39,7 +39,7 @@ When I’m not coding you’ll find me hiking the Himalayas, experimenting with 
 
 <div align="center">
   <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" /></a>
-  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" /></a>
+  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /></a>
   <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" /></a>
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" /></a>
@@ -49,10 +49,11 @@ When I’m not coding you’ll find me hiking the Himalayas, experimenting with 
   <a href="https://postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" /></a>
   <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" /></a>
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" /></a>
-  <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" /></a>
+  <!-- FIXED ICONS -->
+  <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=#E57373" alt="Rust" width="50" /></a>
+  <a href="https://solana.com"><img src="https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" width="50" /></a>
   <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" /></a>
   <a href="https://tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" /></a>
-  <a href="https://solana.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original.svg" alt="Solana" width="50" /></a>
 </div>
 
 ---
