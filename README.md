@@ -1,107 +1,76 @@
-<div class="profile-container">
-  <div class="header">
-    <h1 style="font-size: 2.2em; color: #1a252f; margin: 0;">👨‍💻 Pradeep Karki</h1>
-    <p style="color: #4a5568; margin: 0.5em 0;">Software Developer | AI Enthusiast | Blockchain Explorer</p>
-    <p style="color: #76838f; font-style: italic;">Based in Nepal 🏔️</p>
-  </div>
+<!-- --------------  HEADER  -------------- -->
+<div align="center">
 
-  <div class="section">
-    <h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 0.3em;">🚀 About Me</h2>
-    <p style="line-height: 1.6; color: #34495e;">Passionate software developer building intelligent systems and decentralized solutions. Specializing in AI, blockchain, and full-stack development. Exploring Agentic AI Frameworks, Solana, and Anchor.</p>
-    <p style="margin-top: 1em; color: #34495e;">When not coding, you'll find me hiking Himalayas, experimenting with Nepali cuisine, or brainstorming projects over chai 🧋</p>
-  </div>
+# 👨‍💻 Pradeep Karki  
+### Software Developer • AI Enthusiast • Blockchain Explorer  
+*Based in Nepal 🏔️*
 
-  <div class="section">
-    <h2 style="color: #2c3e50; border-bottom: 2px solid #e67e22; padding-bottom: 0.3em;">🌟 What I Do</h2>
-    <ul style="color: #34495e; line-height: 1.8;">
-      <li>🧠 <strong>AI & ML</strong>: TensorFlow, Scikit-learn, LangChain</li>
-      <li>🎨 <strong>Frontend</strong>: React, JavaScript, HTML/CSS</li>
-      <li>⚙️ <strong>Backend</strong>: Node.js, Express, PostgreSQL</li>
-      <li>⛓️ <strong>Blockchain</strong>: Solana, Anchor, Smart Contracts</li>
-      <li>📦 <strong>Open Source</strong>: Building impactful solutions</li>
-    </ul>
-  </div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-karki)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pradeepkarki)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karkeepradeep654@gmail.com)
 
-  <!-- ✅ Added Languages & Tools Section -->
-  <div class="section">
-    <h2 style="color: #2c3e50; border-bottom: 2px solid #2ecc71; padding-bottom: 0.3em;">🛠️ Languages & Tools</h2>
-    <div class="tools-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); gap: 1rem; justify-items: center; margin-top: 1rem;">
-      <!-- Tool Icons -->
-      <a href="https://www.cprogramming.com/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://expressjs.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.linux.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://nodejs.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://pandas.pydata.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://postman.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.python.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.rust-lang.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://www.tensorflow.org" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 10px;" />
-      </a>
-      <a href="https://solana.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" width="50" height="50" style="margin: 10px;" />
-      </a>
-    </div>
-  </div>
+</div>
 
-  <div class="section">
-    <h2 style="color: #2c3e50; border-bottom: 2px solid #9b59b6; padding-bottom: 0.3em;">📬 Connect</h2>
-    <div class="social-icons" style="text-align: center;">
-      <a href="https://linkedin.com/in/pradeep-karki" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 10px;" />
-      </a>
-      <a href="mailto:karkeepradeep654@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="50" style="margin: 0 10px;" />
-      </a>
-      <a href="https://twitter.com/pradeepkarki" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="50" style="margin: 0 10px;" />
-      </a>
-    </div>
-    <p style="text-align: center; margin-top: 1em;">Let's discuss tech, mountains, or momos!</p>
-  </div>
+---
 
-  <div class="section" style="background: #f8f9fa;">
-    <h2 style="color: #2c3e50;">🎯 Current Projects</h2>
-    <ul style="color: #34495e; line-height: 1.8;">
-      <li>🤖 AI Analytics Platform</li>
-      <li>🪙 Solana dApp with Anchor</li>
-      <li>🧠 Agentic AI Research</li>
-    </ul>
-  </div>
+<!-- --------------  ABOUT ME  -------------- -->
+## 🚀 About Me
+Passionate software developer building **intelligent systems** and **decentralized solutions**.  
+I specialize in **AI, blockchain, and full-stack development**, currently exploring *Agentic AI Frameworks*, *Solana*, and *Anchor*.
 
-  <div class="section" style="background: #e8f5e9; text-align: center;">
-    <p style="margin: 0;"><strong>😄 Fun Fact:</strong> Coded a smart contract at 3,000m in the Himalayas!</p>
-    <p style="margin-top: 0.8em; font-style: italic; color: #4a5568;">"Code is poetry - elegance meets precision"</p>
-  </div>
+When I’m not coding you’ll find me hiking the Himalayas, experimenting with Nepali cuisine, or brainstorming projects over chai 🧋.
+
+---
+
+<!-- --------------  WHAT I DO  -------------- -->
+## 🌟 What I Do
+| Area | Tech |
+|---|---|
+| **AI & ML** | TensorFlow, Scikit-learn, LangChain |
+| **Frontend** | React, JavaScript, HTML/CSS |
+| **Backend** | Node.js, Express, PostgreSQL |
+| **Blockchain** | Solana, Anchor, Smart Contracts |
+| **Open Source** | Building impactful solutions |
+
+---
+
+<!-- --------------  LANGUAGES & TOOLS  -------------- -->
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" /></a>
+  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" /></a>
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" /></a>
+  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" /></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" /></a>
+  <a href="https://postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" /></a>
+  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" /></a>
+  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" /></a>
+  <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" /></a>
+  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" /></a>
+  <a href="https://tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" /></a>
+  <a href="https://solana.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original.svg" alt="Solana" width="50" /></a>
+</div>
+
+---
+
+<!-- --------------  CURRENT PROJECTS  -------------- -->
+## 🎯 Current Projects
+- 🤖 **AI Analytics Platform** – end-to-end ML pipeline  
+- 🪙 **Solana dApp with Anchor** – DeFi primitives & NFT marketplace  
+- 🧠 **Agentic AI Research** – autonomous task-solving agents  
+
+---
+
+<!-- --------------  FUN FACT  -------------- -->
+<div align="center">
+
+### 😄 Fun Fact  
+Once wrote and deployed a **smart contract at 3,000 m** in the Himalayas!
+
+> “Code is poetry — where elegance meets precision.”
+
 </div>
