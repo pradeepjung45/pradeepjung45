@@ -30,9 +30,6 @@
       <a href="https://www.cprogramming.com/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;" />
       </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
-      </a>
       <a href="https://expressjs.com" target="_blank" class="tool-icon" style="transition: transform 0.2s;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin: 10px;" />
       </a>
