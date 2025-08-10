@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👨‍💻 Pradeep Karki  
-### Software Developer • AI Enthusiast • Blockchain Explorer  
+### Software Developer • AI Developer • Blockchain Explorer  
 *Based in Nepal 🏔️*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-karki)
