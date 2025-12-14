@@ -16,23 +16,12 @@
 <!-- --------------  ABOUT ME  -------------- -->
 ## 🚀 About Me
 Passionate software developer building **intelligent systems** and **decentralized solutions**.  
-I specialize in **AI, blockchain, and full-stack development**, currently exploring *Agentic AI Frameworks*, *Solana*, and *Anchor*.
+I specialize in **AI, blockchain, and full-stack development**, currently exploring *Agentic AI Frameworks*.
 
 When I’m not coding you’ll find me hiking the Himalayas, experimenting with Nepali cuisine, or brainstorming projects over chai 🧋.
 
 ---
 
-<!-- --------------  WHAT I DO  -------------- -->
-## 🌟 What I Do
-| Area | Tech |
-|---|---|
-| **AI & ML** | TensorFlow, Scikit-learn, LangChain |
-| **Frontend** | React, JavaScript, HTML/CSS |
-| **Backend** | Node.js, Express, PostgreSQL |
-| **Blockchain** | Solana, Anchor, Smart Contracts |
-| **Open Source** | Building impactful solutions |
-
----
 
 <!-- --------------  LANGUAGES & TOOLS  -------------- -->
 ## 🛠️ Languages & Tools
@@ -60,18 +49,8 @@ When I’m not coding you’ll find me hiking the Himalayas, experimenting with 
 
 <!-- --------------  CURRENT PROJECTS  -------------- -->
 ## 🎯 Current Projects
-- 🤖 **AI Analytics Platform** – end-to-end ML pipeline  
 - 🪙 **Solana dApp with Anchor** – DeFi primitives & NFT marketplace  
 - 🧠 **Agentic AI Research** – autonomous task-solving agents  
 
 ---
 
-<!-- --------------  FUN FACT  -------------- -->
-<div align="center">
-
-### 😄 Fun Fact  
-Once wrote and deployed a **smart contract at 3,000 m** in the Himalayas!
-
-> “Code is poetry — where elegance meets precision.”
-
-</div>
