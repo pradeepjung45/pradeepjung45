@@ -48,8 +48,7 @@ When I’m not coding you’ll find me hiking the Himalayas, experimenting with 
 ---
 
 <!-- --------------  CURRENT PROJECTS  -------------- -->
-## 🎯 Current Projects
-- 🪙 **Solana dApp with Anchor** – DeFi primitives & NFT marketplace  
+## 🎯 Current Projects  
 - 🧠 **Agentic AI Research** – autonomous task-solving agents  
 
 ---
