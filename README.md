@@ -4,8 +4,15 @@
 ### Full Stack Developer
 *Based in Kathmandu, Nepal 🏔️*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-karki)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karkeepradeep654@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/pradeep-karki">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:karkeepradeep654@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pradeep-karki&label=Views&style=flat-square&color=blue" alt="profile views" />
+</p>
 
 <br />
 
@@ -50,7 +57,3 @@
 
 ### 🎯 Current Focus
 🧠 **Agentic AI** – Building autonomous task-solving agents.
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeep-karki&style=flat-square&color=blue" alt="profile counter" />
-</div>
