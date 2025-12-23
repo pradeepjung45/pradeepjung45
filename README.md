@@ -1,54 +1,28 @@
-<!-- --------------  HEADER  -------------- -->
 <div align="center">
 
-# 👨‍💻 Pradeep Karki  
-### Software Developer • AI Developer • Blockchain Explorer  
-*Based in Nepal 🏔️*
+# 👨‍💻 Pradeep Karki
+### Full Stack Developer
+*Based in Kathmandu, Nepal 🏔️*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-karki)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karkeepradeep654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-karki)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karkeepradeep654@gmail.com)
 
 </div>
 
 ---
 
-<!-- --------------  ABOUT ME  -------------- -->
-## 🚀 About Me
-Passionate software developer building **intelligent systems** and **decentralized solutions**.  
-I specialize in **AI, blockchain, and full-stack development**, currently exploring *Agentic AI Frameworks*.
+### 🛠️ Tech Stack
 
-When I’m not coding you’ll find me hiking the Himalayas, experimenting with Nepali cuisine, or brainstorming projects over chai 🧋.
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) |
+| **AI & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat) |
+| **Web3** | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=Solana&logoColor=white) |
+| **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
-
-
-<!-- --------------  LANGUAGES & TOOLS  -------------- -->
-## 🛠️ Languages & Tools
-
 <div align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" /></a>
-  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" /></a>
-  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" /></a>
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" /></a>
-  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" /></a>
-  <a href="https://postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" /></a>
-  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" /></a>
-  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" /></a>
-  <!-- FIXED ICONS -->
-  <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=#E57373" alt="Rust" width="50" /></a>
-  <a href="https://solana.com"><img src="https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" width="50" /></a>
-  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" /></a>
-  <a href="https://tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pradeep-karki&style=flat-square&color=blue" alt="profile counter" />
 </div>
-
----
-
-<!-- --------------  CURRENT PROJECTS  -------------- -->
-## 🎯 Current Projects  
-- 🧠 **Agentic AI Research** – autonomous task-solving agents  
-
----
-
