@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.webp" alt="Pradeep Karki — Software Engineer" width="100%" />
+<img src="./assets/hero.webp" alt="Pradeep Karki — Engineer" width="100%" />
 
 <br />
 <br />
