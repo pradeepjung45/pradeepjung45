@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="28" viewBox="0 0 94 28" role="img" aria-label="X">
+  <rect x="0.5" y="0.5" width="93" height="27" rx="3" fill="#0d1117" stroke="#262f3e" stroke-width="1"/>
+  <path d="M23.7 8.5h2.1l-4.6 5.25L26.6 20h-4.24l-3.32-4.35L15.24 20h-2.1l4.92-5.62L12.9 8.5h4.34l3 3.98 3.46-3.98zm-.74 10.35h1.16l-7.55-9.98h-1.25l7.64 9.98z" fill="#e2e8f0"/>
+  <text x="58" y="18" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#e2e8f0">X.COM</text>
+</svg>
